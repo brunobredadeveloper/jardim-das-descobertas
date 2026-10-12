@@ -1,0 +1,32 @@
+[
+  {
+    "resource": "animal_cat",
+    "author": "Dan Crosby / Dcrosby",
+    "source": "https://commons.wikimedia.org/wiki/File:Meow.ogg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/6/62/Meow.ogg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original file unchanged; playback volume reduced in app.",
+    "sha256": "34d45db58a5ad7b9586514bd30350f0e6c43ad9391b253cfee82a08da21eab67"
+  },
+  {
+    "resource": "animal_dog",
+    "author": "Amada44",
+    "source": "https://commons.wikimedia.org/wiki/File:Barking_of_a_dog.ogg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Barking_of_a_dog.ogg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original file unchanged; playback volume reduced in app.",
+    "sha256": "e4438897b68360e54c9e9319a8aea14a78527f022c2b78086f4b2348c03b2fa1"
+  },
+  {
+    "resource": "animal_cow",
+    "author": "Secretlondon",
+    "source": "https://commons.wikimedia.org/wiki/File:Mudchute_cow_1.ogg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mudchute_cow_1.ogg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Original file unchanged; playback volume reduced in app.",
+    "sha256": "ac0a7dc56e6abc7b17a45d8bea5644350516dd2b995f1da506849892aaf8650b"
+  }
+]

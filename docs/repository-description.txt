@@ -1,0 +1,1 @@
+Offline Android discovery game for young children, with A–Z alphabet, real animal sounds, playful Compose illustrations, MVVM and tested learning flows.

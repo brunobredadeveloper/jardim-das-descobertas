@@ -1,0 +1,5 @@
+<resources>
+ <color name="launcher_background">#101629</color>
+ <style name="Theme.Garden" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item><item name="android:statusBarColor">#EAF8EC</item><item name="android:navigationBarColor">#EAF8EC</item><item name="android:windowActionModeOverlay">true</item></style>
+ <style name="Theme.Garden.Starting" parent="Theme.SplashScreen"><item name="windowSplashScreenBackground">#EAF8EC</item><item name="windowSplashScreenAnimatedIcon">@drawable/ic_brand</item><item name="postSplashScreenTheme">@style/Theme.Garden</item></style>
+</resources>
